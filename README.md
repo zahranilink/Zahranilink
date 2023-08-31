@@ -1,8 +1,7 @@
 ### 👋 Hi, I’m Fahad 
 
-- 🔭 I’m currently working on " Python "
-- 🌱 I’m currently learning " Data Analysis "
-- 🤔 I’m looking for help with "Data Analysis"
+- 🔭 I’m currently working on "Data Analysis"
+- 🌱 I’m currently learning "Python"
 - 💬 Ask me about "Data Analysis"
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zahranilink/) | [Facebook](https://www.facebook.com/zahranilink/)
 - ⚡ **Fun fact: "Netflix is a huge fan of data analysis"**
