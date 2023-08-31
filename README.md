@@ -2,11 +2,9 @@
 
 - 🔭 I’m currently working on " Python "
 - 🌱 I’m currently learning " Data Analysis "
-- 👯 I’m looking to collaborate on " Projects "
 - 🤔 I’m looking for help with "Data Analysis"
 - 💬 Ask me about "Data Analysis"
 - 📫 How to reach me: ."Zahranilink(at)gmail.com
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: "Netflix is a huge fan of data analysis"
 
 
