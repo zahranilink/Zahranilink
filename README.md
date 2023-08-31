@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Fahad or @zahranilink 
+### 👋 Hi, I’m Fahad 
 
 - 🔭 I’m currently working on " Python "
 - 🌱 I’m currently learning " Data Analysis "
