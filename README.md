@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning " Data Analysis "
 - 🤔 I’m looking for help with "Data Analysis"
 - 💬 Ask me about "Data Analysis"
-- 📫 How to reach me: ."Zahranilink(at)gmail.com
+- 📫 How to reach me: .[LinkedIn](https://www.linkedin.com/in/zahranilink/)., [Facebook](https://www.facebook.com/zahranilink/).
 - ⚡ Fun fact: "Netflix is a huge fan of data analysis"
 
 
