@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Fahad 
+### Hi, I’m Fahad 
 
 - 🔭 I’m currently working on "Data Analysis"
 - 🌱 I’m currently learning "Python"
